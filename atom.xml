@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://webalosarema.github.io/atom.xml" rel="self"/>
   <link href="http://webalosarema.github.io/"/>
-  <updated>2016-01-16T21:29:27+02:00</updated>
+  <updated>2016-01-16T21:31:38+02:00</updated>
   <id>http://webalosarema.github.io/</id>
   <author>
     <name><![CDATA[özgür ertaş]]></name>
@@ -27,7 +27,10 @@
     <link href="http://webalosarema.github.io/blog/2016/01/16/biz-koye-gocerken/"/>
     <updated>2016-01-16T21:24:58+02:00</updated>
     <id>http://webalosarema.github.io/blog/2016/01/16/biz-koye-gocerken</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>burada turlu yazilar olacak</h2>
+
+<p>bu turlu yazilar turlu insanlar tarafindan okunacak
+Sosa was here !!</p>
 ]]></content>
   </entry>
   
