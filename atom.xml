@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://webalosarema.github.io/atom.xml" rel="self"/>
   <link href="http://webalosarema.github.io/"/>
-  <updated>2016-01-16T21:25:21+02:00</updated>
+  <updated>2016-01-16T21:29:27+02:00</updated>
   <id>http://webalosarema.github.io/</id>
   <author>
     <name><![CDATA[özgür ertaş]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Deneme3]]></title>
+    <link href="http://webalosarema.github.io/blog/2016/01/16/deneme3/"/>
+    <updated>2016-01-16T21:28:58+02:00</updated>
+    <id>http://webalosarema.github.io/blog/2016/01/16/deneme3</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Biz-koye-gocerken]]></title>
