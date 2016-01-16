@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://webalosarema.github.io/sitemap.xml 
