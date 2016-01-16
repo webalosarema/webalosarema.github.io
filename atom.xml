@@ -4,7 +4,7 @@
   <title><![CDATA[nanik zamanlar]]></title>
   <link href="http://webalosarema.github.io/atom.xml" rel="self"/>
   <link href="http://webalosarema.github.io/"/>
-  <updated>2016-01-16T22:35:44+02:00</updated>
+  <updated>2016-01-16T22:42:16+02:00</updated>
   <id>http://webalosarema.github.io/</id>
   <author>
     <name><![CDATA[özgür ertaş]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bu-ilk-yazim-olsun]]></title>
+    <link href="http://webalosarema.github.io/blog/2016/01/16/bu-ilk-yazim-olsun/"/>
+    <updated>2016-01-16T22:42:01+02:00</updated>
+    <id>http://webalosarema.github.io/blog/2016/01/16/bu-ilk-yazim-olsun</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Deneme3]]></title>
